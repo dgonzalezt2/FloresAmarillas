@@ -18,3 +18,8 @@ Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 
 </div>
+
+
+# Design 
+
+![image](https://github.com/user-attachments/assets/5760a58f-1b49-4ced-bbb2-0a83c85b7fff)
