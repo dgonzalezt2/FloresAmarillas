@@ -7,8 +7,6 @@ Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 # TOOLS
 <div>
-     <p align="left">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg" alt="html" width="40" height="40"/>
   </a>
