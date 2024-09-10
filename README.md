@@ -3,7 +3,7 @@
 Para que lo compartan en este mes de septiembre sus flores amarillas.
 
 Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
-* Look the page in:[ https://dgonzalezt2.github.io/Days_Counter/](https://dgonzalezt2.github.io/FloresAmarillas/)
+* Look the page in: https://dgonzalezt2.github.io/FloresAmarillas/
 
 # TOOLS
 <div>
