@@ -22,4 +22,6 @@ Created by: [Deiv-Ops](https://github.com/dgonzalezt2)
 
 # Design 
 
-![image](https://github.com/user-attachments/assets/5760a58f-1b49-4ced-bbb2-0a83c85b7fff)
+ ![image](https://github.com/user-attachments/assets/aa51c87d-d357-4e05-a47d-7b88ab5ee783)
+
+ ![image](https://github.com/user-attachments/assets/5760a58f-1b49-4ced-bbb2-0a83c85b7fff)
