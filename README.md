@@ -1,6 +1,6 @@
 # FloresAmarillas
 
-Me toco hacer esto porque si no Xio me dejaba de hablar.
+Vea para que despues diga que no la quiero.
 
 Creado por: [Deiv-Ops](https://github.com/dgonzalezt2)
 * Mira la pagina aqui: https://dgonzalezt2.github.io/FloresAmarillas/
