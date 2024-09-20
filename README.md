@@ -1,6 +1,6 @@
-# FloresAmarillas
+# FloresAmarillas 💛
 
-Vea para que despues diga que no la quiero.
+Vea para que despues diga que no la quiero y nunca se van a marchitar🧏‍♂️💛.
 
 Creado por: [Deiv-Ops](https://github.com/dgonzalezt2)
 * Mira la pagina aqui: https://dgonzalezt2.github.io/FloresAmarillas/
