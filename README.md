@@ -6,6 +6,7 @@ Creado por: [Deiv-Ops](https://github.com/dgonzalezt2)
 * Mira la pagina aqui: https://dgonzalezt2.github.io/FloresAmarillas/
 
 # Lenguajes usados
+
 <div>
 <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg" alt="html" width="40" height="40"/>
